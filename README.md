@@ -2,7 +2,6 @@
 Este projeto consiste em uma pagina simples desenvolvido utilizando HTML de um site para uma faculdade ficticia.
 Este é um projeto que foi feito durante os estudos pessoais de HTML.
 
-Execute o projeto
 Para executar o projeto em sua máquina local, siga estas etapas:
 
 Clone o repositório ou baixe os arquivos em seu computador.
